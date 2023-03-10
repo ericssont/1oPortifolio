@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-size: 1em;
+  /* font-family: "Courier New", Courier, monospace; */
+  background: ghostwhite;
+  /* border: 5px solid gray; */
+}
+#area-cabecalho {
+  background: linear-gradient(120deg, #0011f3d8, #02c8ebda);
+  padding: auto;
+  text-align: center;
+}
+#inicio{
+  color: aliceblue;
+}
+#area-logo,
+#area-menu {
+  padding: 10px;
+  color: aliceblue;
+}
+#area-principal {
+    text-align: center;
+  padding: 5px;
+  width: 600px;
+  margin: auto;
+}
+
+#area-postagens {
+  width: 500px;
+  margin: 50px;
+  /* float: left; */
+}
+/* #area-lateral {
+  width: 240px;
+  float: right;
+} */
+.postagem {
+  padding: 20px;
+  margin-bottom: 20px;
+  background: rgb(235, 238, 250);
+  border-radius: 5%;
+
+}
+#rodape {
+    font-family: 'Courier New', Courier, monospace;
+  clear: both;
+  text-align:center;
+  padding: 15px;
+  /* background: ; */
+  font-size: 0.8em;
+}
+
+h1{
+    font-size: 2.5em;
+}
+p{
+    font-size: 1em;
+}
+a{
+    text-decoration: none;
+    margin: 5px;
+    color: black;
+    font-size: larger;
+}
+a{
+  color: aliceblue;
+}
+
