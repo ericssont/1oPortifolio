@@ -12,6 +12,14 @@ body {
   background: linear-gradient(120deg, #0011f3d8, #02c8ebda);
   padding: auto;
   text-align: center;
+  padding: 8px 12px;
+  
+}
+#area-cabecalho a:hover {
+  color: #1900f7;
+  background: white;
+  text-decoration: none;
+  border-radius: 40%;
 }
 #inicio{
   color: aliceblue;
@@ -33,10 +41,7 @@ body {
   margin: 50px;
   /* float: left; */
 }
-/* #area-lateral {
-  width: 240px;
-  float: right;
-} */
+
 .postagem {
   padding: 20px;
   margin-bottom: 20px;
@@ -64,6 +69,8 @@ a{
     margin: 5px;
     color: black;
     font-size: larger;
+  transform: scale(1.2);
+
 }
 a{
   color: aliceblue;

@@ -4,7 +4,7 @@
     color: rgb(12, 3, 95);
   }
   .fundo {
-    background: linear-gradient(120deg, #020eb4d8, #02c8ebda);
+    background: linear-gradient(120deg, #020972d8, #02c8ebda);
     height: 100vh;
     color: #fff;
     font-family: Arial, Helvetica, sans-serif;
@@ -31,7 +31,7 @@
   }
   #resultado {
     border: solid 2px #ece7dd;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(224, 220, 220);
     width: 200px;
     height: 28px;
     margin: 5px;
@@ -39,7 +39,7 @@
     color: black;
     text-align: right;
     padding: 5px;
-    border-radius: 20px;
+    border-radius:15px;
   }
   .botao:hover {
     background-color: #0310be;
