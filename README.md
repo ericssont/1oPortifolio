@@ -21,8 +21,8 @@ Obs. Não se preocupe com estilos e funcionalidades neste momento. (NÃO SEGUI E
 Após criarmos a estrutura de nossa calculadora, vamos usar CSS para criar estilos. Adicione classes para todos os elementos HTML e  faça uma estilização a seu gosto, mas seguindo os seguintes requerimentos mínimos:
 A fonte de todo o texto na calculadora deve ser ‘Arial’ e ter, por padrão, 18px
 A calculadora precisa estar em um contêiner centralizado horizontalmente na tela (não precisa centralizar verticalmente), ocupando uma largura de, no máximo, 640px (você pode utilizar uma div ou uma section para esta finalidade)
-O fundo da tela precisa ser da cor #FAF9F6, enquanto o fundo da calculadora precisa ser branco (#FFFFFF)
-Adicione uma borda de 1px, sólida e de cor #ECE7DD ao contêiner da calculadora
+O fundo da tela precisa ser da cor #FAF9F6, enquanto o fundo da calculadora precisa ser branco (#FFFFFF) (alterei)
+Adicione uma borda de 1px, sólida e de cor #ECE7DD ao contêiner da calculadora (alterei a cor)
 Modifique os estilos padrão dos inputs ao seu gosto
 Modifique os estilos padrão do botão ao seu gosto
 
