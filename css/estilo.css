@@ -30,7 +30,7 @@ body {
   color: aliceblue;
 }
 #area-principal {
-    text-align: center;
+  text-align: center;
   padding: 5px;
   width: 600px;
   margin: auto;
@@ -39,22 +39,18 @@ body {
 #area-postagens {
   width: 500px;
   margin: 50px;
-  /* float: left; */
-}
-
-.postagem {
-  padding: 20px;
+  padding:10px;
   margin-bottom: 20px;
   background: rgb(235, 238, 250);
   border-radius: 5%;
 
+  /* float: left; */
 }
+
 #rodape {
     font-family: 'Courier New', Courier, monospace;
-  clear: both;
   text-align:center;
   padding: 15px;
-  /* background: ; */
   font-size: 0.8em;
 }
 
@@ -67,12 +63,9 @@ p{
 a{
     text-decoration: none;
     margin: 5px;
-    color: black;
+    color: aliceblue;
     font-size: larger;
-  transform: scale(1.2);
+    transform: scale(1.5);
+}
 
-}
-a{
-  color: aliceblue;
-}
 
